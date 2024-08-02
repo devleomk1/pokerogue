@@ -23,6 +23,7 @@ export const starterSelectUiHandler: SimpleTranslationEntries = {
   "nature": "성격:",
   "eggMoves": "알 기술",
   "addToParty": "파티에 추가",
+  "removeFromParty": "파티에서 제외",
   "toggleIVs": "개체값 토글",
   "manageMoves": "기술 관리",
   "manageNature": "성격 관리",
